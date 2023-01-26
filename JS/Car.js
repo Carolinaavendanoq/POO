@@ -13,6 +13,8 @@ Car.prototype.printDataCar =  function () {
 }
 */
 
+// Sin modificadores de acceso
+
 class Car{
     constructor(license, driver){
         this.id;
